@@ -1,0 +1,25 @@
+{
+  "name": "md-to-html-http-server",
+  "version": "0.0.1",
+  "description": "",
+  "license": "MIT",
+  "repository": "r4j4h/md-to-html-http-server",
+  "author": {
+    "name": "Jasmine Hegman",
+    "email": "jasmine@jhegman.com",
+    "url": "http://jhegman.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "server",
+    "md",
+    "html",
+    "markdown",
+    "compile"
+  ],
+  "dependencies": {
+    "markdown": "^0.5.0"
+  }
+}
