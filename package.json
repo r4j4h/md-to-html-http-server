@@ -1,8 +1,8 @@
 {
   "name": "md-to-html-http-server",
   "version": "0.0.1",
-  "description": "",
-  "license": "MIT",
+  "description": "A miniature markdown to html HTTP converter in node.js. With Dockerfile & Makefile to build as an image and run a container on a given point.",
+  "license": "Artistic License 2.0",
   "repository": "r4j4h/md-to-html-http-server",
   "author": {
     "name": "Jasmine Hegman",
